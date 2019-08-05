@@ -6,4 +6,4 @@ Trying to gain an advantage in Jeopardy? In this project, we will attempt to fin
 In order to accomplish this, we will:
 * See how many times an answer itself shows up in a question
 * Find if there are any overlaps between the questions of the past
-* Perform a chi-squared test to see if we can determine if certain terms correspnd to high or low value questions.
+* Perform a chi-squared test to see if we can determine if certain terms correspond to high or low value questions.
